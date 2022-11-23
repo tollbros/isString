@@ -1,0 +1,19 @@
+{
+  "name": "@tollbrothers/isstring",
+  "version": "1.0.0",
+  "description": "Check if passed parameter is a string. Returns true or false.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tollbros/isString.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tollbros/isString/issues"
+  },
+  "homepage": "https://github.com/tollbros/isString#readme"
+}
