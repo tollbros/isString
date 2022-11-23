@@ -30,3 +30,5 @@ console.log('isString', isString('test'))
 
 ## Things to consider
 - You can publish code without commiting it. Not sure why you would but there are no guards to prevent you from doing so.
+- On github, the org is `tollbros`
+- On npm, the org is `tollbrothers`
