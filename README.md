@@ -25,15 +25,14 @@ console.log('isString', isString('test'))
 5. Run the script via `node script.js`
 
 ## How do we publish changes?
-1. Login first via `npm login`
-2. Run `npm publish --access=public`
-
-## Things to consider
-- You can publish code without commiting it. Not sure why you would but there are no guards to prevent you from doing so.
-- On github, the org is `tollbros`
-- On npm, the org is `tollbrothers`
+1. Publishing has been automated by the Semantic Release Workflow
 
 ## Semantic Release Workflow
 Basically, follow the commit message format below. Then when the commit is posted on the `main` branch semantic-release will do its thing and publish a new version on `merge to main` or a direct commit to `main`.
 * [Commit message format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#type)
 * [How does it work?](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#type)
+
+## Things to consider
+- You can publish code without commiting it. Not sure why you would but there are no guards to prevent you from doing so.
+- On github, the org is `tollbros`
+- On npm, the org is `tollbrothers`
