@@ -36,3 +36,4 @@ console.log('isString', isString('test'))
 ## Semantic Release Workflow
 Basically, follow the commit message format below. Then when the commit is posted on the `main` branch semantic-release will do its thing and publish a new version on `merge to main` or a direct commit to `main`.
 * [Commit message format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#type)
+* [How does it work?](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#type)
