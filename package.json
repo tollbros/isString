@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tollbros/isString/issues"
   },
-  "homepage": "https://github.com/tollbros/isString#readme"
+  "homepage": "https://github.com/tollbros/isString#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
 }
